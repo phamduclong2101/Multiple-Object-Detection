@@ -33,7 +33,7 @@ Further documentation on [working with Anaconda environments](https://conda.io/d
 
 
 ### Training results
-<br> <img width="800" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/re_metrics.png">
+<br> <img width="400" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/re_metrics.png">
 
 ### Train and validation of loss metrics
 <br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/b.png">
