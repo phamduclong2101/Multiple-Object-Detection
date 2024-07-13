@@ -2,11 +2,10 @@
 <br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/de9cca8cb689dc8ae05e45725cce2812c9b2dc41/assets/ssd_architecture.png">
 
 
-* Learn about *MobileNets* and separable depthwise convolutions.
+* Learn about *EfficientDet* and separable depthwise convolutions.
 * The SSD (Single Shot Detection) architecture used for object detection
 * Use pretrained TensorFlow object detection inference models to detect objects
 * Use different architectures and weigh the tradeoffs.
-* Apply an object detection pipeline to a video.
 
 Open the notebook and work through it!
 
