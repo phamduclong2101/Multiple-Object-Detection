@@ -1,5 +1,5 @@
 # Multiple Detection - SSD-EfficientDet
-<br> <img width="1000" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/de9cca8cb689dc8ae05e45725cce2812c9b2dc41/assets/ssd_architecture.png">
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/de9cca8cb689dc8ae05e45725cce2812c9b2dc41/assets/ssd_architecture.png">
 
 
 * Learn about *MobileNets* and separable depthwise convolutions.
@@ -37,5 +37,5 @@ Pham Duc Long
 
 
 ### Acknowledgments
-* "https://blog.roboflow.com/what-is-resnet-50/"
-* "https://arxiv.org/abs/1610.02357"
+* "https://arxiv.org/abs/1911.09070"
+* "https://arxiv.org/abs/1512.02325"
