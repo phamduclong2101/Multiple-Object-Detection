@@ -32,10 +32,16 @@ root                  *  /usr/local/anaconda3
 Further documentation on [working with Anaconda environments](https://conda.io/docs/using/envs.html#managing-environments). 
 
 
+### Training results
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/re_metrics.png">
 
+### Train and validation of loss metrics
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/b.png">
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/Results/c.png">
 
-
-
+### Samples output
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/assets/1.png">
+<br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/af5aee9eb1d6f8527be3fe30e5955e3714408da3/assets/2.png">
 
 ### Resources
 
