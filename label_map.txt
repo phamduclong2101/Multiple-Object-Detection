@@ -1,0 +1,50 @@
+item {
+    name: "Awning-tricycle",
+    id: 1,
+    display_name: "Awning-tricycle"
+}
+item {
+    name: "Bicycle",
+    id: 2,
+    display_name: "Bicycle"
+}
+item {
+    name: "Bus",
+    id: 3,
+    display_name: "Bus"
+}
+item {
+    name: "Car",
+    id: 4,
+    display_name: "Car"
+}
+item {
+    name: "Motor",
+    id: 5,
+    display_name: "Motor"
+}
+item {
+    name: "Pedestrian",
+    id: 6,
+    display_name: "Pedestrian"
+}
+item {
+    name: "People",
+    id: 7,
+    display_name: "People"
+}
+item {
+    name: "Tricycle",
+    id: 8,
+    display_name: "Tricycle"
+}
+item {
+    name: "Truck",
+    id: 9,
+    display_name: "Truck"
+}
+item {
+    name: "Van",
+    id: 10,
+    display_name: "Van"
+}
