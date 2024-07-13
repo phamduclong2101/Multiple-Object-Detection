@@ -32,6 +32,21 @@ root                  *  /usr/local/anaconda3
 Further documentation on [working with Anaconda environments](https://conda.io/docs/using/envs.html#managing-environments). 
 
 
+
+
+
+
+
+### Resources
+
+* TensorFlow object detection [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
+
+
+### Future Work
+
+* Experiment with Fast-R-CNN, Detr, Yolov8 and compare its performance with SSD
+
+
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
