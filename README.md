@@ -1,4 +1,4 @@
-# Multiple Detection - SSD-EfficientDet
+# Multiple Object Detection - SSD-EfficientDet
 <br> <img width="1100" alt="RGB" src="https://github.com/phamduclong2101/Multiple-Detection/blob/de9cca8cb689dc8ae05e45725cce2812c9b2dc41/assets/ssd_architecture.png">
 
 
